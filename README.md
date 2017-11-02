@@ -1,1 +1,2 @@
 # ClipMogul
+Automated paperclipping.
